@@ -1,0 +1,14 @@
+Homepage for nix-darwin: https://github.com/LnL7/nix-darwin
+Refence documentation: https://daiderd.com/nix-darwin/manual/index.html
+
+Enter starter shell:
+nix --extra-experimental-features "nix-command flakes" run github:zmre/pwzsh
+
+basic setup:
+$ mkdir src/system-config
+
+
+
+
+Other:
+Multi-line string starts with '' and ends with ''
